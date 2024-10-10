@@ -1,6 +1,6 @@
 ### 👋 Hello, I’m @Abhishek-10-k!
 
-#### 🎓 **Student** | **Aspiring Data Scientist**
+#### 🎓 **Student** | **Aspiring Data Analyst**
 
 ### 🔍 **Currently Exploring**
 - **Data Science & Analytics**: Diving into data to uncover insights
